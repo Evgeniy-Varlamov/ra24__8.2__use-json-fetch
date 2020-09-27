@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra24__8.2__use-json-fetch/static/css/main.4170a49c.chunk.css",
+    "main.js": "/ra24__8.2__use-json-fetch/static/js/main.789e119a.chunk.js",
+    "main.js.map": "/ra24__8.2__use-json-fetch/static/js/main.789e119a.chunk.js.map",
+    "runtime-main.js": "/ra24__8.2__use-json-fetch/static/js/runtime-main.9aae40d0.js",
+    "runtime-main.js.map": "/ra24__8.2__use-json-fetch/static/js/runtime-main.9aae40d0.js.map",
+    "static/js/2.6462156d.chunk.js": "/ra24__8.2__use-json-fetch/static/js/2.6462156d.chunk.js",
+    "static/js/2.6462156d.chunk.js.map": "/ra24__8.2__use-json-fetch/static/js/2.6462156d.chunk.js.map",
+    "index.html": "/ra24__8.2__use-json-fetch/index.html",
+    "precache-manifest.4442b290bc4e7e1d8f0b5652fd959f37.js": "/ra24__8.2__use-json-fetch/precache-manifest.4442b290bc4e7e1d8f0b5652fd959f37.js",
+    "service-worker.js": "/ra24__8.2__use-json-fetch/service-worker.js",
+    "static/css/main.4170a49c.chunk.css.map": "/ra24__8.2__use-json-fetch/static/css/main.4170a49c.chunk.css.map",
+    "static/js/2.6462156d.chunk.js.LICENSE.txt": "/ra24__8.2__use-json-fetch/static/js/2.6462156d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9aae40d0.js",
+    "static/js/2.6462156d.chunk.js",
+    "static/css/main.4170a49c.chunk.css",
+    "static/js/main.789e119a.chunk.js"
+  ]
+}
